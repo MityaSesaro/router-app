@@ -41,7 +41,7 @@ class ContactsMain extends React.Component {
                     <h2>Contact Us</h2>
                     <input className='name' placeholder='Enter your Name'></input>
                     <input className='adress' placeholder='Enter your email adress'></input>
-                    <input className='request'></input>
+                    <textarea className='request'></textarea>
                 </div>
             </div>
         )
