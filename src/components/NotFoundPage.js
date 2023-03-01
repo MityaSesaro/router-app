@@ -10,8 +10,12 @@ class NotFoundPage extends React.Component {
 
     render() {
         return (
-            <div>
+            <div className='not-found'>
+                <h3>404</h3>
+                <p>Sorry, this page does not exist</p>
+                <div>
 
+                </div>
             </div>
         )
     }
