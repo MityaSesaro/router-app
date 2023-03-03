@@ -212,6 +212,7 @@ body {
             align-items: center;
             text-align: center;
             transition: background-color 0.75s;
+            cursor: pointer;
 
             &:hover {
                 background: #000000;
@@ -287,6 +288,7 @@ body {
                 text-align: center;
                 color: #000000;
                 transition: 0.2s;
+                cursor: pointer;
 
                 &:hover {
                     width: 145px;
@@ -464,6 +466,7 @@ body {
                 text-align: center;
                 color: #000000;
                 transition: 0.2s;
+                cursor: pointer;
 
                 &:hover {
                     width: 145px;
@@ -709,6 +712,7 @@ body {
 
             color: #FFFFFF;
             transition: 0.2s;
+            cursor: pointer;
 
             &:hover {
                 background: #ffffff;
@@ -761,10 +765,11 @@ body {
                 text-align: center;
                 justify-content: center;
                 transition: 0s, background 0.2s;
+                cursor: pointer;
 
                 &:hover {
                     background: #ffffff;
-                    border: 3px solid black
+                    border: 3px solid black;
                 }
 
                 &:active {

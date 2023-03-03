@@ -15,7 +15,7 @@ class HomePage extends React.Component {
         return (
             <div className='all'>
                 <HomeHeader title='Lorem ipsum dolor sit amet' />
-                <HomeMain button1='button' title1='Lorem ipsum' title2='Lorem ipsum' title3='Lorem ipsum' btn='button' />
+                <HomeMain />
                 <HomeFooter />
             </div>
         )

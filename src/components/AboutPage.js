@@ -15,7 +15,7 @@ class AboutPage extends React.Component {
         return (
             <div>
                 <AboutHeader title='Lorem ipsum dolor sit amet' />
-                <AboutMain button1='button' title1='Lorem ipsum' title2='Lorem ipsum' title3='Lorem ipsum' btn='button' h2='Lorem ipsum dolor sit amet' />
+                <AboutMain />
                 <AboutFooter />
             </div>
         )

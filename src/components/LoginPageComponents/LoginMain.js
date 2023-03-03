@@ -6,9 +6,6 @@ import Vk from './vk.png';
 class LoginMain extends React.Component {
     constructor(props) {
         super(props)
-        this.State = {
-            text: ''
-        }
     }
 
     render() {
